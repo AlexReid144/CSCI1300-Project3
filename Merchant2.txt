@@ -1,0 +1,15 @@
+You can spend all of your money here before you start your journey, or you can save some to spend on merchants along the way. 
+But beware, some of the merchants in this dungeon are shady characters, and they won’t always give you a fair price...
+
+To purchase Ingredients, type I. The ingredients that you buy will be dispersed amongst you and your teammates. 
+
+To purchase Cookware, type C. You will need this to cook your food. You only need one for the whole team. 
+
+To purchase Weapons, type W. Weapons will help you defend against monsters you may encounter in your travels. 
+Each player can only have one wepon.
+
+To purchase Armor, type A. Armor is used to help protect you against anything in your path. Each person is able to have 
+one set of armor. 
+
+To Leave the Merchant, type L. This will continue you on your journey and remember, it is important to stock up on materials before hand.
+But, their will be other merchants down the road if you run low on a certain resource. 

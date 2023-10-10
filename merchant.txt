@@ -1,0 +1,22 @@
+Between the 5 of you, you have 100 gold coins. 
+The prices at the stores along the trail get progressively higher as you get further along.
+You will need to spend your money on the following items:
+
+- INGREDIENTS. To make food, you have to cook raw ingredients. 
+Each person is reccomended to purchase at least 10 kg of ingredients, at 1 gold piece per kilogram of food.
+
+- COOKWARE. If you want to cook, you have to have cookware first.
+They are multiple different options of cookware that you can choose from. 
+Your team can buy more than one item of cookware.
+
+- WEAPONS. You’ll want at least one weapon per party member to fend off monsters.
+There are multiple types of weapons that you can choose from, varying in power. 
+If you do not have a weapon, when you encounter a monster you can only run. 
+A better weapon helps maximize your chance of survival during an attack. 
+
+- ARMOR. Armor increases the chances of surviving a monster attack.
+One set of armor cost 5 gold pieces. 
+
+Would you like to purchase something from the merchant 
+if Yes, enter: Y
+if No, enter: N 
